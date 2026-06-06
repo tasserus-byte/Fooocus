@@ -1,5 +1,5 @@
 {
-    "default_model": "realisticStockPhoto_v20.safetensors",
+    "default_model": "bigLove_xl2.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,8 +43,9 @@
     ],
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
+        "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors"
+        "bigLove_xl2.safetensors": "https://huggingface.co/poor7/Models/resolve/8776e7e470b1f19e58499102adaf25030df3c549/bigLove_xl2.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
