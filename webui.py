@@ -822,7 +822,7 @@ with shared.gradio_root:
                                                           'Only used in inpaint, not used in outpaint. '
                                                           '(Outpaint always use 1.0)')
                         inpaint_respective_field = gr.Slider(label='Inpaint Respective Field',
-                                                             minimum=0.0, maximum=1.0, step=0.001, value=0.618,
+                                                             minimum=0.0, maximum=1.0, step=0.001, value=0.750,
                                                              info='The area to inpaint. '
                                                                   'Value 0 is same as "Only Masked" in A1111. '
                                                                   'Value 1 is same as "Whole Image" in A1111. '
