@@ -2,6 +2,7 @@
     "default_model": "bigLove_xl2.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
+    "default_selected_image_input_tab_id": "inpaint_tab",
     "default_loras": [
         [
             true,
