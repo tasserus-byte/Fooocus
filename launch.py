@@ -63,7 +63,7 @@ vae_approx_filenames = [
     ('xlvaeapp.pth', 'https://huggingface.co/lllyasviel/misc/resolve/main/xlvaeapp.pth'),
     ('vaeapp_sd15.pth', 'https://huggingface.co/lllyasviel/misc/resolve/main/vaeapp_sd15.pt'),
     ('xl-to-v1_interposer-v4.0.safetensors',
-     'https://huggingface.co/mashb1t/misc/resolve/8a285a5ce49dca25c1c3650084c996be040828a3/xl-to-v1_interposer-v4.0.safetensors?download=true')
+     'https://huggingface.co/Hrumka7/Fooocus/resolve/main/xl-to-v1_interposer-v4.0.safetensors')
 ]
 
 
