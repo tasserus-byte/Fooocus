@@ -8,7 +8,7 @@ pillow==10.4.0
 scipy==1.14.0
 tqdm==4.66.4
 psutil==6.0.0
-pytorch_lightning==2.3.3
+pytorch_lightning
 omegaconf==2.3.0
 gradio==3.41.2
 pygit2==1.15.1
